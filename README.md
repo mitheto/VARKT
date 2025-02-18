@@ -32,10 +32,14 @@
 
   - [Презентация проекта](https://github.com/mitheto/VARKT/blob/main/reports/presentation.pptx)
 
-  - [Модель ракетоносителя Протон-К с ФГБ "Заря" в KSP](https://github.com/d-asv-b/varkt/blob/main/KSP_craft/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BD-%D0%9A_%D0%97%D0%B0%D1%80%D1%8F.craft)
+  - [Код автопилота вывода на орбиту Кербина](https://github.com/mitheto/VARKT/blob/main/Programming/Orbit.py)
   
-  - [Код для автопилота в KSP](https://github.com/d-asv-b/varkt/blob/main/Python/krpc_autopilot.py)
+  - [Код для автопилота расчёта маневра по приближению к Муне](https://github.com/mitheto/VARKT/blob/main/Programming/To_the_moon.py)
+
+  - [Код выхода на орбиту Муны](https://github.com/mitheto/VARKT/blob/main/Programming/Moon_orbit.py)
   
-  - [Код мат. модели и создания графиков](https://github.com/d-asv-b/varkt/blob/Python/show_data.py)
+  - [Код создания графиков мат. модели](https://github.com/mitheto/VARKT/blob/main/Programming/model_math.py)
+
+  - [Код создания графиков из тлеметрии](https://github.com/mitheto/VARKT/blob/main/Programming/grafs.py)
     
-  - [Запись полета на YouTube](https://youtu.be/ManPyMjzc-k)
+  - [Запись полета на YouTube](https://youtu.be/82i0Xbo3x2o)
