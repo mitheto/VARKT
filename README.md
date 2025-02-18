@@ -30,7 +30,7 @@
 
   - [Отчёт о проделанной работе](https://github.com/mitheto/VARKT/blob/main/reports/report.docx)
 
-  - [Презентация проекта](https://github.com/mitheto/VARKT/blob/main/reports/presentation.pptx)
+  - [Презентация проекта](https://github.com/mitheto/VARKT/blob/main/reports/Presentation.pptx)
 
   - [Код автопилота вывода на орбиту Кербина](https://github.com/mitheto/VARKT/blob/main/Programming/Orbit.py)
   
