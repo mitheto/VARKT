@@ -26,23 +26,23 @@ plt.title('Зависимость высоты от скорости')
 plt.grid(True)
 plt.legend()
 
-# График зависимости времени от высоты
+# График зависимости высоты от времени
 plt.subplot(1, 3, 2)
 plt.plot(time1, altitude1, label='Мат.модель', color='green')
 plt.plot(time2, altitude2, label='Симуляция', color='lime', linestyle='--')
 plt.xlabel('Время (с)')
 plt.ylabel('Высота (м)')
-plt.title('Зависимость времени от высоты')
+plt.title('Зависимость высоты от времени')
 plt.grid(True)
 plt.legend()
 
-# График зависимости времени от скорости
+# График зависимости скорости
 plt.subplot(1, 3, 3)
 plt.plot(time1, speed1, label='Мат.модель', color='red')
 plt.plot(time2, speed2, label='Симуляция', color='orange', linestyle='--')
 plt.xlabel('Время (с)')
 plt.ylabel('Скорость (м/с)')
-plt.title('Зависимость времени от скорости')
+plt.title('Зависимость скорости от времени')
 plt.grid(True)
 plt.legend()
 
