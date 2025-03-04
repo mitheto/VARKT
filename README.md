@@ -16,7 +16,7 @@
 ## Графики
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e56995a9-92c7-41b4-b418-d7bf384040fa"/>
+  <img src="https://github.com/user-attachments/assets/d8d5ccc5-ad3b-441c-97c1-586d2ebb1299"/>
 </p>
 
 ## QR-код для перехода к видео
